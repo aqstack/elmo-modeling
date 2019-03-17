@@ -6,5 +6,5 @@ Text classification is one of the important and paradigmatic tasks in supervised
 ![ELMO](elmo.jpg)
 
 ## Team
-* Ausaf Ahmed
-* Aakash Kanvinde
+* [Ausaf Ahmed](https://github.com/ausafaq)
+* [Aakash Kanvinde](https://github.com/aakashkanvinde)
